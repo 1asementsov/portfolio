@@ -29,6 +29,7 @@ The purpose of this repository is to organize all the courses and projects avail
 |  [The Analytics Edge](https://verify.edx.org/cert/88262e6c913949a98c90642a6d7a698f) | Data Science | EDX | May 2014 |
 |  [The Data Scientist’s Toolbox](https://www.coursera.org/signature/certificate/5FMEZLPB75) | Data Science  | Coursera | May 2014 | 
 |  [An Introduction to Marketing](https://www.coursera.org/signature/certificate/XSKGFAN7H2) | Business | Coursera  | Jan 2014  |  
+|  [Touch typing RU,EN](https://ergosolo.ru/) | Business | Ergosolo | Aug 2009  |  
 
 ## Social
 
