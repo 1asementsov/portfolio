@@ -22,7 +22,7 @@ The purpose of this repository is to organize all the courses and projects avail
 |  [PH125.1x: Data Science: R Basics](https://courses.edx.org/certificates/1b897f4d318f43d89ca4307569d8cba4) | Data Science | EDX | Nov 2019 |
 |  [Relational Algebra](https://verify.lagunita.stanford.edu/SOA/2b2abcacbf274d1e9bc59d12f66fad9c/) | Programming | Stanford | Sep 2019 |
 |  Version Control with Git | GIT | Udacity | July 2019 | 
-|  CEFR Certificate of English C1 level | Language | Lingoda Language School | Mar 2018 | 
+|  [CEFR Certificate of English C1 level](https://www.lingoda.com/en/) | Language | Lingoda Language School | Mar 2018 | 
 |  Microsoft SQL Server 2016 Essential Training| Programming | Coursera | Aug 2016 | 
 |  Economics for non-economists (by HSE University)| Economics | Coursera | Apr 2015 |
 |  [R Programming](https://www.coursera.org/signature/certificate/9Q3P9VJC4B) | Programming | Coursera | Jun 2014 | 
