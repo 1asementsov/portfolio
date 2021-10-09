@@ -16,12 +16,12 @@ The purpose of this repository is to organize all the courses and projects avail
 |  [Управление Личными Финансами (by HSE University)](https://www.coursera.org/account/accomplishments/certificate/W5NXWS7FFE7G) | Finance | Coursera | Jun 2021 |
 |  [Системный анализ и  Разработка требований в ИТ-проектах](https://systems.education/) | System Analytics | Школа Системного Анализа | Apr 2021 |
 |  [Machine Learning (by Stanford University)](https://coursera.org/share/b427dead6f0052c83f6b56cb2743a1c7) | Machine Learning | Coursera | Sep 2020 |
-|  [FC1x: Fat Chance: Probability from the Ground Up](https://courses.edx.org/certificates/43b7245f94e94d518dd3815729d6bcfc) | Math | EDX | July 2020 | 
+|  [FC1x: Fat Chance: Probability from the Ground Up](https://courses.edx.org/certificates/43b7245f94e94d518dd3815729d6bcfc) | Math | EDX | Jul 2020 | 
 |  [PH526x: Using Python for Research & Machine Learning](https://courses.edx.org/certificates/3048705a45ae41a88f9a353eb5c0e746) | Machine Learning | EDX | May 2020 |
 |  [SQL](https://verify.lagunita.stanford.edu/SOA/4371aecfe5bd4dd88ceac069eb44642d)| Programming | Stanford | Feb 2020 |
 |  [PH125.1x: Data Science: R Basics](https://courses.edx.org/certificates/1b897f4d318f43d89ca4307569d8cba4) | Data Science | EDX | Nov 2019 |
 |  [Relational Algebra](https://verify.lagunita.stanford.edu/SOA/2b2abcacbf274d1e9bc59d12f66fad9c/) | Programming | Stanford | Sep 2019 |
-|  [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) | GIT | Udacity | July 2019 | 
+|  [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) | GIT | Udacity | Jul 2019 | 
 |  [CEFR Certificate of English C1 level](https://www.lingoda.com/en/) | Language | Lingoda Language School | Mar 2018 | 
 |  [Microsoft SQL Server 2016 Essential Training](https://www.linkedin.com/learning/microsoft-sql-server-2016-essential-training)| Programming | Lynda.com | Aug 2016 | 
 |  [Economics for non-economists (by HSE University)](https://www.coursera.org/learn/ekonomika-dlya-neekonomistov)| Economics | Coursera | Apr 2015 |
