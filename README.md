@@ -9,7 +9,7 @@ The purpose of this repository is to organize all the courses and projects avail
 |  [Understanding Financial Markets (by University of Geneva)](https://www.coursera.org/account/accomplishments/certificate/FXQZ56VR3KWD) | Finance | Coursera | Oct 2021 |
 |  [Unsupervised Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/9d7b5a223c40fe3c45a1928ac8862c26d78426e4) | Machine Learning | DataCamp | Oct 2021 |
 |  [Supervised Learning with scikit-learn](https://www.datacamp.com/statement-of-accomplishment/course/22a8982baf3ba311dbd871b42af166580f19ee5f) | Machine Learning | DataCamp | Sep 2021 |
-|  [Introduction to Portfolio Risk Management in Python](https://www.datacamp.com/statement-of-accomplishment/course/2531d9784831ff47fbf74516031e48f07fc0d04f) | Finance | DataCamp | August 2021 | 
+|  [Introduction to Portfolio Risk Management in Python](https://www.datacamp.com/statement-of-accomplishment/course/2531d9784831ff47fbf74516031e48f07fc0d04f) | Finance | DataCamp | Aug 2021 | 
 |  [Quantitative Methods in Finance (by HSE University)](https://www.coursera.org/account/accomplishments/certificate/L5ZHUQEDGTGZ) | Finance | Coursera | Aug 2021 | 
 |  [Financial Markets and Institutions (by HSE University)](https://www.coursera.org/account/accomplishments/certificate/U9PBAZPME5HB) | Finance | Coursera | Jul 2021 | 
 |  [Introduction to Portfolio Construction and Analysis with Python (by EDHEC Business School)](https://www.coursera.org/account/accomplishments/verify/8GMYMFPH4UCL) | Finance | Coursera | Jul 2021 |
