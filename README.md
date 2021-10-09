@@ -21,10 +21,10 @@ The purpose of this repository is to organize all the courses and projects avail
 |  [SQL](https://verify.lagunita.stanford.edu/SOA/4371aecfe5bd4dd88ceac069eb44642d)| Programming | Stanford | Feb 2020 |
 |  [PH125.1x: Data Science: R Basics](https://courses.edx.org/certificates/1b897f4d318f43d89ca4307569d8cba4) | Data Science | EDX | Nov 2019 |
 |  [Relational Algebra](https://verify.lagunita.stanford.edu/SOA/2b2abcacbf274d1e9bc59d12f66fad9c/) | Programming | Stanford | Sep 2019 |
-|  Version Control with Git | GIT | Udacity | July 2019 | 
+|  [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) | GIT | Udacity | July 2019 | 
 |  [CEFR Certificate of English C1 level](https://www.lingoda.com/en/) | Language | Lingoda Language School | Mar 2018 | 
-|  Microsoft SQL Server 2016 Essential Training| Programming | Coursera | Aug 2016 | 
-|  Economics for non-economists (by HSE University)| Economics | Coursera | Apr 2015 |
+|  [Microsoft SQL Server 2016 Essential Training](https://www.linkedin.com/learning/microsoft-sql-server-2016-essential-training)| Programming | Lynda.com | Aug 2016 | 
+|  [Economics for non-economists (by HSE University)](https://www.coursera.org/learn/ekonomika-dlya-neekonomistov)| Economics | Coursera | Apr 2015 |
 |  [R Programming](https://www.coursera.org/signature/certificate/9Q3P9VJC4B) | Programming | Coursera | Jun 2014 | 
 |  [The Analytics Edge](https://verify.edx.org/cert/88262e6c913949a98c90642a6d7a698f) | Data Science | EDX | May 2014 |
 |  [The Data Scientist’s Toolbox](https://www.coursera.org/signature/certificate/5FMEZLPB75) | Data Science  | Coursera | May 2014 | 
