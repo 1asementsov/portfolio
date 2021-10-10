@@ -5,6 +5,7 @@ The purpose of this repository is to organize all the courses and projects avail
 
 | Name  | Category | Organization | Date |
 | ------------- | ------------- |  ------------- |  ------------- |
+|  [Introduction to Data Engineering](https://www.datacamp.com/statement-of-accomplishment/course/808412772eb09360a54cd4c399c36fb8fb24a4ed) | Data Engineering | DataCamp | Oct 2021 |
 |  [Data Engineering for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/9a5206c7536d76fb153a706bd971ad1a5018f8db)| Data Engineering | DataCamp | Oct 2021 |
 |  [Understanding Financial Markets (by University of Geneva)](https://www.coursera.org/account/accomplishments/certificate/FXQZ56VR3KWD) | Finance | Coursera | Oct 2021 |
 |  [Unsupervised Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/9d7b5a223c40fe3c45a1928ac8862c26d78426e4) | Machine Learning | DataCamp | Oct 2021 |
