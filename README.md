@@ -16,6 +16,7 @@ The purpose of this repository is to organize all the courses and projects avail
 |  [Introduction to Portfolio Construction and Analysis with Python (by EDHEC Business School)](https://www.coursera.org/account/accomplishments/verify/8GMYMFPH4UCL) | Finance | Coursera | Jul 2021 |
 |  [Управление Личными Финансами (by HSE University)](https://www.coursera.org/account/accomplishments/certificate/W5NXWS7FFE7G) | Finance | Coursera | Jun 2021 |
 |  [Системный анализ и  Разработка требований в ИТ-проектах](https://systems.education/) | System Analytics | Школа Системного Анализа | Apr 2021 |
+|  [Проектирование Баз Данных](https://stepik.org/cert/1157736) | Programming | Stepik | Jan 2021 |
 |  [Machine Learning (by Stanford University)](https://coursera.org/share/b427dead6f0052c83f6b56cb2743a1c7) | Machine Learning | Coursera | Sep 2020 |
 |  [FC1x: Fat Chance: Probability from the Ground Up](https://courses.edx.org/certificates/43b7245f94e94d518dd3815729d6bcfc) | Math | EDX | Jul 2020 | 
 |  [PH526x: Using Python for Research & Machine Learning](https://courses.edx.org/certificates/3048705a45ae41a88f9a353eb5c0e746) | Machine Learning | EDX | May 2020 |
