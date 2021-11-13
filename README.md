@@ -5,6 +5,7 @@ The purpose of this repository is to organize all the courses and projects avail
 
 | Name  | Category | Organization | Date |
 | ------------- | ------------- |  ------------- |  ------------- |
+|  [Meeting Investors' Goals (by University of Geneva)](https://www.coursera.org/account/accomplishments/certificate/JBHHMXHGYPXH) | Finance| Coursera | Nov 2021 |
 |  [Streamlined Data Ingestion with pandas](https://www.datacamp.com/statement-of-accomplishment/course/b8cc026f065c9e0462bc63c75005ba64a86fcf81) | Data Engineering | DataCamp | Oct 2021 |
 |  [Introduction to Data Engineering](https://www.datacamp.com/statement-of-accomplishment/course/808412772eb09360a54cd4c399c36fb8fb24a4ed) | Data Engineering | DataCamp | Oct 2021 |
 |  [Data Engineering for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/9a5206c7536d76fb153a706bd971ad1a5018f8db)| Data Engineering | DataCamp | Oct 2021 |
