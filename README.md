@@ -1,5 +1,5 @@
 # Portfolio
-The purpose of this repository is to organize all the courses and projects available on my github. 
+The purpose of this repository is to organize on my github all the courses and projects that I have completed. 
 
 ## Courses 
 
