@@ -5,6 +5,7 @@ The purpose of this repository is to organize on my github all the courses and p
 
 | Name  | Category | Organization | Date |
 | ------------- | ------------- |  ------------- |  ------------- |
+|  [Business English: Networking](https://www.coursera.org/account/accomplishments/certificate/WE7AZ4G5NW56) | Language | Coursera | Jan 2022 |
 |  [Data Manipulation with pandas](https://www.datacamp.com/statement-of-accomplishment/course/f746e580d778db8d8845e56146ecbed767e69d8e) | Programming | Coursera | Jan 2022 |
 |  [Portfolio and Risk Management (by University of Geneva)](https://www.coursera.org/account/accomplishments/verify/4LAE57BWLXTU) | Finance | Coursera | Jan 2022 |
 |  [Meeting Investors' Goals (by University of Geneva)](https://www.coursera.org/account/accomplishments/certificate/JBHHMXHGYPXH) | Finance | Coursera | Nov 2021 |
