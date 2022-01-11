@@ -40,6 +40,12 @@ The purpose of this repository is to organize on my github all the courses and p
 |  [An Introduction to Marketing](https://www.coursera.org/signature/certificate/XSKGFAN7H2) | Business | Coursera  | Jan 2014  |  
 |  [Touch typing RU,EN](https://ergosolo.ru/) | Skills | Ergosolo | Aug 2009  |  
 
+## Books 
+| Name  | Category | Author | Date |
+| ------------- | ------------- |  ------------- |  ------------- |
+|  [Маршрут построен](https://alpinabook.ru/catalog/book-marshrut-postroen/) | Marketing | Илья Балахнин | Jan 2022 |
+
+
 ## Social
 
 [LinkedIn](https://www.linkedin.com/in/anton-sementsov-4b354373/)
