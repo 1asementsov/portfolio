@@ -41,15 +41,17 @@ The purpose of this repository is to organize on my github all the courses and p
 |  [An Introduction to Marketing](https://www.coursera.org/signature/certificate/XSKGFAN7H2) | Business | Coursera  | Jan 2014  |  
 |  [Touch typing RU,EN](https://ergosolo.ru/) | Skills | Ergosolo | Aug 2009  |  
 
-## Books 
+## Projects (more info WIP)
+| Name  | Link | 
+| ------------- | ------------- |
+| Investigating Netflix Movies and Guest Stars in The Office | See Projects |
+
+
+## Books (more info WIP)
 | Name  | Category | Author | Date |
 | ------------- | ------------- |  ------------- |  ------------- |
 |  [Маршрут построен](https://alpinabook.ru/catalog/book-marshrut-postroen/) | Marketing | Илья Балахнин | Jan 2022 |
 
-## Projects 
-| Name  | Link | 
-| ------------- | ------------- |
-| Investigating Netflix Movies and Guest Stars in The Office | See Projects |
 
 ## Social
 
