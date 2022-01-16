@@ -46,6 +46,10 @@ The purpose of this repository is to organize on my github all the courses and p
 | ------------- | ------------- |  ------------- |  ------------- |
 |  [Маршрут построен](https://alpinabook.ru/catalog/book-marshrut-postroen/) | Marketing | Илья Балахнин | Jan 2022 |
 
+## Projects 
+| Name  | Link | 
+| ------------- | ------------- |
+| Investigating Netflix Movies and Guest Stars in The Office | See Projects |
 
 ## Social
 
