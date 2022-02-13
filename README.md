@@ -5,6 +5,9 @@ The purpose of this repository is to organize on my github all the courses and p
 
 | Name  | Category | Organization | Date |
 | ------------- | ------------- |  ------------- |  ------------- |
+|  [Introduction to Data Visualization with Matplotlib](https://www.datacamp.com/statement-of-accomplishment/course/9b6dda11bf98f794c012ad83439ec6aa59421191) | Data Science | DataCamp | Feb 2022 |
+|  [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/statement-of-accomplishment/course/da99bc20896573175c6780a5671b37454230f50b) | Data Science | DataCamp | Feb 2022 |
+|  [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/statement-of-accomplishment/course/7de46b1eaf3b23931238e5304b9874f11abb3195) | Data Science | DataCamp | Feb 2022 |
 |  [Securing Investment Returns in the Long Run](https://coursera.org/share/3fb06f9837b88967f00376383e43c5d6) | Finance | Coursera | Jan 2022 |
 |  [Business English: Networking](https://coursera.org/share/bb784ea573c22870480661bdba3b4d80) | Language | Coursera | Jan 2022 |
 |  [Data Manipulation with pandas](https://www.datacamp.com/statement-of-accomplishment/course/f746e580d778db8d8845e56146ecbed767e69d8e) | Programming | Coursera | Jan 2022 |
@@ -45,6 +48,7 @@ The purpose of this repository is to organize on my github all the courses and p
 | Name  | Link | 
 | ------------- | ------------- |
 | Investigating Netflix Movies and Guest Stars in The Office | See Projects |
+| The Android App Market on Google Play | See Projects |
 
 
 ## Books (more info WIP)
