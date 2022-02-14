@@ -5,6 +5,8 @@ The purpose of this repository is to organize on my github all the courses and p
 
 | Name  | Category | Organization | Date |
 | ------------- | ------------- |  ------------- |  ------------- |
+|  [Investment Management Specialization](https://coursera.org/share/27c7a1271195d8d3ad639189b6540325) | Finance | Coursera | Feb 2022 |
+|  [Planning your Client's Wealth over a 5-year Horizon!](https://coursera.org/share/795e6c06d7253fd75b8c8334453dabd1) | Finance | Coursera | Feb 2022 |
 |  [Introduction to Data Visualization with Matplotlib](https://www.datacamp.com/statement-of-accomplishment/course/9b6dda11bf98f794c012ad83439ec6aa59421191) | Data Science | DataCamp | Feb 2022 |
 |  [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/statement-of-accomplishment/course/da99bc20896573175c6780a5671b37454230f50b) | Data Science | DataCamp | Feb 2022 |
 |  [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/statement-of-accomplishment/course/7de46b1eaf3b23931238e5304b9874f11abb3195) | Data Science | DataCamp | Feb 2022 |
