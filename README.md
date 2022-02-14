@@ -12,7 +12,7 @@ The purpose of this repository is to organize on my github all the courses and p
 |  [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/statement-of-accomplishment/course/7de46b1eaf3b23931238e5304b9874f11abb3195) | Data Science | DataCamp | Feb 2022 |
 |  [Securing Investment Returns in the Long Run](https://coursera.org/share/3fb06f9837b88967f00376383e43c5d6) | Finance | Coursera | Jan 2022 |
 |  [Business English: Networking](https://coursera.org/share/bb784ea573c22870480661bdba3b4d80) | Language | Coursera | Jan 2022 |
-|  [Data Manipulation with pandas](https://www.datacamp.com/statement-of-accomplishment/course/f746e580d778db8d8845e56146ecbed767e69d8e) | Programming | Coursera | Jan 2022 |
+|  [Data Manipulation with pandas](https://www.datacamp.com/statement-of-accomplishment/course/f746e580d778db8d8845e56146ecbed767e69d8e) | Programming | DataCamp | Jan 2022 |
 |  [Portfolio and Risk Management (by University of Geneva)](https://coursera.org/share/4fb89d4157b23f2b36478a75262bf94e) | Finance | Coursera | Jan 2022 |
 |  [Meeting Investors' Goals (by University of Geneva)](https://coursera.org/share/cf80bde970101f7dea59e2e6f2f05b2a) | Finance | Coursera | Nov 2021 |
 |  [Streamlined Data Ingestion with pandas](https://www.datacamp.com/statement-of-accomplishment/course/b8cc026f065c9e0462bc63c75005ba64a86fcf81) | Data Engineering | DataCamp | Oct 2021 |
