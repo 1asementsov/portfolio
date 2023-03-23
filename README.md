@@ -5,13 +5,13 @@ The purpose of this repository is to organize on my github all the courses and p
 
 | Name  | Category | Organization | Date |
 | ------------- | ------------- |  ------------- |  ------------- |
-|  [Experimentation + Testing() | Marketing | Reforge | Dec 2022 |
-|  [Growth Marketing() | Marketing | Reforge | Nov 2022 |
-|  [Retention + Engagement() | Marketing | Reforge | Nov 2022 |
-|  [Advanced Growth Strategy() | Marketing | Reforge | Sep 2022 |
-|  [Dataiku Advanced Designer Training() | Data Engineering | Dataiku Academy | Sep 2022 |
-|  [Growth Series() | Marketing | Reforge | Aug 2022 |
-|  [Dataiku Core Designer Training]() | Data Engineering | Dataiku Academy | May 2022 |
+|  [Experimentation + Testing](https://www.reforge.com/) | Marketing | Reforge | Dec 2022 |
+|  [Growth Marketing](https://www.reforge.com/) | Marketing | Reforge | Nov 2022 |
+|  [Retention + Engagement](https://www.reforge.com/) | Marketing | Reforge | Nov 2022 |
+|  [Advanced Growth Strategy](https://www.reforge.com/) | Marketing | Reforge | Sep 2022 |
+|  [Dataiku Advanced Designer Training](https://academy.dataiku.com/) | Data Engineering | Dataiku Academy | Sep 2022 |
+|  [Growth Series](https://www.reforge.com/) | Marketing | Reforge | Aug 2022 |
+|  [Dataiku Core Designer Training](https://academy.dataiku.com/) | Data Engineering | Dataiku Academy | May 2022 |
 |  [Investment Management Specialization](https://coursera.org/share/27c7a1271195d8d3ad639189b6540325) | Finance | Coursera | Feb 2022 |
 |  [Planning your Client's Wealth over a 5-year Horizon!](https://coursera.org/share/795e6c06d7253fd75b8c8334453dabd1) | Finance | Coursera | Feb 2022 |
 |  [Introduction to Data Visualization with Matplotlib](https://www.datacamp.com/statement-of-accomplishment/course/9b6dda11bf98f794c012ad83439ec6aa59421191) | Data Science | DataCamp | Feb 2022 |
