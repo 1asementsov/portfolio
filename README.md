@@ -5,6 +5,10 @@ The purpose of this repository is to organize on my github all the courses and p
 
 | Name  | Category | Organization | Date |
 | ------------- | ------------- |  ------------- |  ------------- |
+|  [Brand Marketing](https://www.reforge.com/) | Marketing | Reforge | Aug 2022 |
+|  [Monetization + Pricing](https://www.reforge.com/) | Marketing | Reforge | Jul 2022 |
+|  [Marketing Strategy](https://www.reforge.com/) | Marketing | Reforge | Jun 2022 |
+|  [Product Marketing](https://www.reforge.com/) | Marketing | Reforge | Jun 2022 |
 |  [Experimentation + Testing](https://www.reforge.com/) | Marketing | Reforge | Dec 2022 |
 |  [Growth Marketing](https://www.reforge.com/) | Marketing | Reforge | Nov 2022 |
 |  [Retention + Engagement](https://www.reforge.com/) | Marketing | Reforge | Nov 2022 |
