@@ -15,7 +15,7 @@ A curated list of courses I've completed, showcasing my skills across various do
 - [💹 Finance, Economics & Mathematics](#-finance-economics--mathematics)
 - [💻 Programming](#-programming)
 - [🧠 Marketing](#-marketing)
-- [🌐 Language & Communication](#-language--communication)
+- [🌐 Languages & Communication](#-language--communication)
 - [📝 Additional Skills](#-additional-skills)
 
 
