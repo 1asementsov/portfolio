@@ -347,7 +347,7 @@ Comprehensive series on growth methodologies.
 
 ---
 
-## 🌐 Language & Communication
+## 🌐 Languages & Communication
 
 ---
 ### [German A1.1 Level](https://www.lingoda.com/en/)
