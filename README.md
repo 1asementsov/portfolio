@@ -3,7 +3,7 @@ The purpose of this repository is to organize on my github all the courses and p
 
 ## Social
 
-[LinkedIn](https://www.linkedin.com/in/anton-sementsov-4b354373/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-sementsov-4b354373/)
 
 # 📚 Completed Courses
 A curated list of courses I've completed, showcasing my skills across various domains.
