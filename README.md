@@ -24,10 +24,10 @@ A curated list of courses I've completed, showcasing my skills across various do
 ### [Data Engineering Specialization on AWS](https://www.coursera.org/professional-certificates/data-engineering)
 DeepLearning.AI Data Engineering Specialization
 *DeepLearning.AI & Coursera | Oct 2024*
-
+---
 ### [Microsoft Azure for Data Engineering](https://www.coursera.org/learn/microsoft-azure-dp-203-data-engineering/)
 *Microsoft & Coursera | Sep 2024*
-
+---
 ### [Dataiku Advanced Designer Training](https://academy.dataiku.com/)
 *Dataiku Academy | Sep 2022*
 
@@ -376,10 +376,12 @@ Achieved advanced proficiency in English.
 
 ## 📝 Additional Skills
 
-### [Public Speaking and Acting]
-* Balcon | Oct 2024*
-I completed a two-month local training program with various coaches in public speaking and acting. 
-This experience significantly improved my skills in delivering presentations, speaking confidently, and presenting diverse topics in both professional and personal settings.
+### [Public Speaking and Acting](https://)
+*Bonnie & Slide | Dec 2018*
+
+I completed a two-month local training program with various coaches in public speaking and acting. This experience significantly improved my skills in delivering presentations, speaking confidently, and presenting diverse topics in both professional and personal settings.
+
+---
 
 ### [PowerPoint Offline Training](https://bonnieandslide.com/power-of-powerpoint)
 *Bonnie & Slide | Dec 2018*
